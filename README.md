@@ -6,6 +6,4 @@ I worked on many project with different technical stacks, starting from Laravel,
 
 I have years of experience working on UI/UX projects and design in general which had a significant impact on my front end development experience.
 
-Currently I'm interesting in learning about DevOps (Docker...) and Cloud services, to go to the next level as a Full Stack Developer 💪🏻
-
 ![Mohammed-Yassin's github stats](https://github-readme-stats.vercel.app/api?username=myhamdaoui&count_private=true&show_icons=true)
